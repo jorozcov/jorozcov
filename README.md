@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 
 📫 Contact me on linkedIn:
 <p align="left">
-<a href="www.linkedin.com/in/jorozcova" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jorozcova" height="30" width="40" /></a>
+<a href="[www.linkedin.com/in/jorozcova](https://www.linkedin.com/in/jorozcova/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jorozcova" height="30" width="40" /></a>
 </p>
 
