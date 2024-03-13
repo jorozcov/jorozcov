@@ -16,7 +16,9 @@ Here are some ideas to get you started:
 -->
 
 🌱 I'm currently learning about web develpment, deployment and infrastructure.
+
 👨‍💻 All my projects are [here.](https://github.com/jorozcov?tab=repositories)
+
 
 📫 Contact me on linkedIn:
 <p align="left">
